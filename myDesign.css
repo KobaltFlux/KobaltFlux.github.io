@@ -6,15 +6,15 @@ body {
 h1{
 	font-family:Monospace;
 	font-size:250%;
-	text-align:center;
+	text-align:left bottom;
 	color:white;
-	padding-top:30px;
+	padding-top:68px;
 	margin-top:0;
 }
 div
 {
 	width:100%;
-	background-image:url("Untitled-2.png");
+	background-color:navy;
 	height:100px;
 	display:block;
 }
